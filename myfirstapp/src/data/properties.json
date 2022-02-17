@@ -1,0 +1,56 @@
+[
+  {
+  "Id":1,
+  "SellRent":2,
+  "Name":"Aamir House" ,
+  "Type":"House" ,
+  "Price":120000,
+  "Image":"img-1"
+
+  },
+  {
+    "Id":2,
+    "SellRent":2,
+    "Name":"ahmad House" ,
+    "Type":"House" ,
+    "Price":120000,
+    "Image":"img-2"
+
+    },
+    {
+      "Id":3,
+      "SellRent":1,
+      "Name":"usman House" ,
+      "Type":"House" ,
+      "Price":120000,
+      "Image":"img-3"
+
+      },
+      {
+        "Id":4,
+        "SellRent":1,
+        "Name":"Razman House" ,
+        "Type":"House" ,
+        "Price":120000,
+        "Image":"img-1"
+
+        },
+        {
+          "Id":5,
+          "SellRent":1,
+          "Name":"Asif House" ,
+          "Type":"House" ,
+          "Price":120000,
+          "Image":"img-2"
+
+          },
+          {
+            "Id":6,
+            "SellRent":1,
+            "Name":"Zeeshan House" ,
+            "Type":"House" ,
+            "Price":120000
+
+
+            }
+]
